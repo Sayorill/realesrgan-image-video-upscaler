@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+hasil/
+gfpgan/weights/
+*.pth
+api.mp4
+coba.png
+images1.jpg
+images1_hd.jpg
+images1_hd_hd.jpg
+robloxtest.png
+robloxtest_hd.png
+robloxtest_hd upscale sharpening.png
+README (1).md
+README (2).md
+requirements (1).txt
